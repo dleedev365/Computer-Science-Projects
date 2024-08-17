@@ -25,7 +25,7 @@ Before implementing algorithm, I needed to understand the logic of pure Monte Ca
 Coding was fairly straight-forward although time complexity and data structures needed to be carefully chosen. Based on the understanding of the algorithm, I found that there always has to be a new move recorded in the gameboard and checked before either a human player or computer decides the next move. Therefore, python dictionary met this need and the algorithm was designed in O(N^2) because each column of rows or row of columns needs to be checked every time a new move is made.
   - [View Source Code](/game.py.py)
 ### Step 4: Final Result & Reflection
-<img src="/slowerdemo.gif" width="100%">
+<img src="./slowerdemo.gif" width="100%">
 
 
 As a result, my AI program guarantees 100% win rate or draw if the number of playouts (simulates games itself given a move) exceeds to 300 playouts which takes about maximum 5 seconds to decide a move.From this project, I learned that algorithm design with respect to time complexity is crucial for real-time applications and it was fun to learn a basic AI algorithm for the first time!
