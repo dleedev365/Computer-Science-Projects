@@ -46,13 +46,6 @@
   - Chat/Message System
   - Student Resource Bank (resume, cover letter, interview tips)
 
-# Demo
-## Recruiter
-<img src="https://github.com/danlee0528/myBetterExperience/blob/f8a45fe23fcf3bc50a9edf593b37d42b43a5473f/recruiter-demo.gif?raw=true" style="width:100%;"/>
-
-## Student
-<img src="https://github.com/danlee0528/myBetterExperience/blob/f8a45fe23fcf3bc50a9edf593b37d42b43a5473f/student-demo.gif?raw=true" style="width:100%;"/>
-
 ## What I Learned
 - creating react components using react-router-dom
 - responsive deisng using bootstrap
