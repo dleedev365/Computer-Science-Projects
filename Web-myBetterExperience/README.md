@@ -6,14 +6,6 @@
 4. Node.js
 5. Google APIs
 
-# Architecture
-### 1) Front-end (React.js - component tree)
-<img src="/front-end-architecture.PNG" width="60%"/>
-
-
-### 2) Back-end (Express.js + Node.js + MongoDB)
-<img src="/back-end-architecture.PNG" width="60%"/>
-
 # To run the application
 ### You need to install depenencie & packages first, run "npm i" in frontend and backend folders
 1. Go to /frontend/my-app and run "npm start"
