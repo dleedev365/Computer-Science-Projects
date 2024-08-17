@@ -19,7 +19,7 @@ To keep things simple, a relational database is a type of database that stores a
 Coding was fairly straight-forward. With Java Swing, I added functionalities or buttons to search flights, enter customer booking information, view flights on any given date and others. With a custom user interface, I tested several cases where a user connects to the database system via JDBC and queries flights or modifies (edit/add/delete) his/her flight reservation(s).
 
 ### Step 4: Final Result & Reflection
-<img src="https://github.com/danlee0528/Airline-Database-System/blob/master/db.jpg" width="500">
+<img src="./db.jpg" width="500">
 
 As a result, I successfully developed a fully working airline database system and learned a lot about SQL and Java, and learned about query optimizations - how different data retrieval methods or queries can improve the overall processing time. Although this project relies on SFU's own MS SQL server to connect to the database system and run the executable .jar file, it introduced me to the fundamentals of the database management system which can be useful for my career in the future. 
 
