@@ -1,0 +1,14 @@
+{
+    "dev": {
+        "django_settings": "app.settings",
+        "profile_name": "default",
+        "project_name": "c474-prj",
+        "runtime": "python3.6",
+        "s3_bucket": "zappa-c474-prj-bucket",
+        "keep_warm": false,
+        "manage_roles":false,
+        "aws_region": "us-west-1",
+        "role_name": "ZappaDjangoRole",
+        "role_arn": "arn:aws:iam::063749277077:role/ZappaDjangoRole"
+    }
+}
