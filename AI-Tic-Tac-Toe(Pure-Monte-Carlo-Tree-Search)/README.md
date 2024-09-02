@@ -23,7 +23,7 @@ Before implementing algorithm, I needed to understand the logic of pure Monte Ca
 ### Step 3: The Implementation
 
 Coding was fairly straight-forward although time complexity and data structures needed to be carefully chosen. Based on the understanding of the algorithm, I found that there always has to be a new move recorded in the gameboard and checked before either a human player or computer decides the next move. Therefore, python dictionary met this need and the algorithm was designed in O(N^2) because each column of rows or row of columns needs to be checked every time a new move is made.
-  - [View Source Code](/game.py.py)
+  - [View Source Code](./game.py.py)
 ### Step 4: Final Result & Reflection
 <img src="./slowerdemo.gif" width="100%">
 
