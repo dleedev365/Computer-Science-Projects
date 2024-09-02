@@ -1,5 +1,5 @@
 # Final Report
-- https://github.com/danlee0528/Two-Sigma-Connect-Rental-Listing-Inquiries/blob/master/Project%20Final%20Report.pdf
+- [PDF link](https://github.com/dleedev365/Computer-Science-Projects/blob/main/Data%20Mining-Rental-Listing-Inquries(Two-Sigma-Connect)/Project%20Final%20Report.pdf)
 
 # Dataset
 - https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries/overview
