@@ -21,7 +21,7 @@ The very first step I took before delving into coding was understanding the conc
 
 To create the program, I first needed to create two groups of threads – worker thread and consumer thread. The worker threads pick a tool from one resource, create a new product with a material randomly generated from other resource and pushes a complete product into anther resource. Then, the consumer threads use a product created by a worker thread. As both types of threads share a common resource such as an array, semaphore and mutex which work as a key to control access to the common resource.
 
-- [View Source Code](/main.c)
+- [View Source Code](./main.c)
 
 ### Step 4: Final Result & Evaluation
 
